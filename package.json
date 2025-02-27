@@ -16,7 +16,7 @@
   },
   "peerDependencies": {
     "@dotnest/core": "20250227.0.2",
-    "@dotnest/gateway": "20250227.0.2",
+    "@dotnest/gateway": "20250227.0.3",
     "@nestjs/swagger": "11.0.5"
   },
   "devDependencies": {
